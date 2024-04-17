@@ -4,7 +4,7 @@ function checkPropertyExistence(str, obj) {
 
 const exampleObj = {
     lang: 'javascript',
-    task: '4.3.1'
+    task: '4.3.2'
 };
 
 console.log(checkPropertyExistence('lang', exampleObj));
